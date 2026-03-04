@@ -12,7 +12,7 @@ Batch: sprint-X26
 
 | Гайд | Описание |
 |------|----------|
-| [Naming Convention & Vault Structure](practice/naming-convention-vault-structure.md) | Формула имён файлов, структура Obsidian vault, теги, YAML frontmatter, интеграция с AI-агентами. [Веб-версия](practice/naming-convention-vault-structure.html) |
+| [Naming Convention & Vault Structure](practice/naming-convention-vault-structure.md) | Формула имён файлов, структура Obsidian vault, теги, YAML frontmatter, интеграция с AI-агентами. [Веб-версия](https://pos-pipelines.netlify.app/naming.html) |
 | [Правила оркестрации моделей](practice/sergey-zinenko-orchestration-rules.md) | Таблица делегирования Opus/Sonnet/Haiku, автоэскалация, правила сессии |
 
 ## Участие
