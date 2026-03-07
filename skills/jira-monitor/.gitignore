@@ -1,0 +1,8 @@
+.env
+*.duckdb
+*.duckdb.wal
+__pycache__/
+*.pyc
+project_profile.json
+flow_config.json
+reports/

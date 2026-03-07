@@ -34,6 +34,7 @@ Batch: sprint-X26
 | [tg-saved](skills/tg-saved) | Telegram Saved Messages → глубокий анализ через Claude → Obsidian | [@gohardstronger](https://github.com/gohardstronger) |
 | [writing-content](skills/writing-content) | Написание текстов для вайб-маркетинга по Julian Shapiro framework | [@khabaroff](https://github.com/khabaroff) |
 | [yt-transcribe](skills/yt-transcribe) | Транскрибация YouTube через mlx-whisper (Apple Silicon) → Obsidian | [@gohardstronger](https://github.com/gohardstronger) |
+| [jira-monitor](skills/jira-monitor) | Kanban-мониторинг Jira — метрики потока, поиск bottleneck, дефекты, sprint scope, оценки | [@divnomorskoe1989](https://github.com/divnomorskoe1989) |
 
 ## Участие
 
