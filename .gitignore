@@ -1,0 +1,32 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Telegram sessions
+*.session
+*.session-journal
+tg_saved_session
+tg_session
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Keys & certs
+*.pem
+*.key
+*.p12
+*.pfx
+
+# DB
+*.duckdb
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db

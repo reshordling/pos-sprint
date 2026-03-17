@@ -1,0 +1,5 @@
+*.session
+*.session-journal
+tg_saved_session
+processed_ids.json
+.env
